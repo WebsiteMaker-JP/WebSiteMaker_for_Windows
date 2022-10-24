@@ -1,0 +1,5 @@
+・上に"@echo off"、終了時に"exit /b"を入力すること
+・拡張子を.batにすること
+
+Enter "@echo off" at the top and "exit /b" when exiting.
+The extension must be ".bat"
